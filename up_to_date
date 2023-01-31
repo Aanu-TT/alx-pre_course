@@ -1,1 +1,2 @@
-echo "git pull origin"
+echo 'git pull origin'
+
